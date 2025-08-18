@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+job_application/__pycache__
+job_application/migrations/__pycache__
+mysite/__pycache__
